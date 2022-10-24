@@ -4,5 +4,5 @@ Making software is an art of placing source code that can make us more fun or mo
 
 This URL link is list of 20 articles:
 
-https://medium.com/@widjajayd/list/the-beauty-of-design-pattern-series-02111cd93830
+https://medium.com/@qasimali7566675/facade-design-pattern-16a0743aaf6c
 
